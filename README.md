@@ -1,18 +1,71 @@
-# 💫 About Me:
-👋 About Me<br>Hi there! I'm Arjun Thilak, an aspiring data scientist and quantum computing enthusiast currently pursuing a dual degree in Computing and Data Science at Sai University and Data Science and Applications at IIT Madras. My journey spans cutting-edge research, hands-on internships, and impactful projects that merge AI, machine learning, and quantum computing.<br><br>🧑‍🎓 Academic Highlights:<br><br>Academic Secretary for all three schools at Sai University (2024-2025).<br>L&T TS Scholarship recipient for academic excellence.<br>Multiple Topper Awards and Best ML Project Award at IIT Madras.<br>🔍 Research Interests:<br>My current focus lies in quantum machine learning, adaptive learning, and fairness-aware AI. I'm exploring how quantum algorithms can redefine generative AI and enhance areas like deep fake detection and drug discovery.<br><br>🛠️ Technical Expertise:<br>Proficient in Python, TensorFlow, Qiskit, Flask, and more, I love building scalable AI solutions and experimenting with quantum-enhanced models.<br><br>💡 Projects:<br><br>CarbonTrack: Developed an adaptive neural network for real-time CO2 emission monitoring.<br>Quantum-Enhanced Face Recognition: Leveraged variational quantum circuits for accurate classification.<br>CrimeCast: Predicted crime categories with 94.7% accuracy using machine learning.<br>📚 Publications:<br><br>A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model (IEEE GCITC 2024)<br>Dynamic Course Optimization Using Online Machine Learning in Learning Management Systems (IEEE CICN 2024)<br>🌟 Achievements:<br><br>Top 20 global ranking in Amazon Deep Racer Reinforcement Learning Challenge (2023-2024).<br>NASA Space Settlement Contest Indian Qualifier.<br>IAPT Top 10% National Qualifier.<br>🌍 Volunteering & Outreach:<br>Passionate about knowledge-sharing, I’ve volunteered with IEEE, UNICEF, and as a Peer Tutor for courses like Linear Algebra and Discrete Mathematics.
+<p align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://i.imgur.com/qOtcINW.gif" alt="Quantum Computer" width="300">
+            </td>
+            <td align="center">
+                <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhjdWxjMDJsN3o1MWdwNDdrc3NndGh0aHppeW0xa3prdTNyZXZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBtSyoi5hUUkCEo/giphy.gif" alt="Quantum Animation" width="300">
+            </td>
+        </tr>
+    </table>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjun-thilak-17248a247/) 
+# 💫 About Me  
+👋 Hi there! I'm **Arjun Thilak**, an aspiring **data scientist** and **quantum computing enthusiast** pursuing dual degrees in **Computing and Data Science** at Sai University and **Data Science and Applications** at IIT Madras. My journey spans cutting-edge research, hands-on internships, and impactful projects that merge AI, machine learning, and quantum computing.  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arjunthilak05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjunthilak05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunthilak05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧑‍🎓 Academic Highlights:  
+- Academic Secretary for all three schools at Sai University (2024-2025).  
+- L&T TS Scholarship recipient for academic excellence.  
+- Multiple Topper Awards and Best ML Project Award at IIT Madras.  
 
----
-[![](https://visitcount.itsvg.in/api?id=arjunthilak05&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔍 Research Interests:  
+Focused on **quantum machine learning**, **adaptive learning**, and **fairness-aware AI**, exploring applications in **deep fake detection** and **drug discovery**.  
+
+### 🛠️ Technical Expertise:  
+Proficient in **Python**, **TensorFlow**, **Qiskit**, **Flask**, and more. Passionate about building scalable AI solutions and experimenting with quantum-enhanced models.  
+
+### 💡 Projects:  
+- **CarbonTrack**: Developed an adaptive neural network for real-time CO2 emission monitoring.  
+- **Quantum-Enhanced Face Recognition**: Leveraged variational quantum circuits for accurate classification.  
+- **CrimeCast**: Predicted crime categories with 94.7% accuracy using machine learning.  
+
+### 📚 Publications:  
+- *A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model* (IEEE GCITC 2024).  
+- *Dynamic Course Optimization Using Online Machine Learning in Learning Management Systems* (IEEE 2024).  
+
+### 🌟 Achievements:  
+- Top 20 global ranking in Amazon Deep Racer RL Challenge (2023-2024).  
+- NASA Space Settlement Contest Indian Qualifier.  
+- IAPT Top 10% National Qualifier.  
+
+### 🌍 Volunteering & Outreach:  
+- **IEEE**: Built a user-friendly website for SPS Design Challenge.  
+- **UNICEF**: Conducted polls on health, education, and unemployment.  
+- Peer Tutor for Linear Algebra & Discrete Mathematics.  
+
+## 🌐 Socials:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-thilak-17248a247/)  
+
+# 💻 Tech Stack:  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+
+# 📊 GitHub Stats:  
+![](https://github-readme-stats.vercel.app/api?username=arjunthilak05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjunthilak05&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunthilak05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
