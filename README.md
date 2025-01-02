@@ -20,9 +20,6 @@
 - L&T TS Scholarship recipient for academic excellence.  
 - Multiple Topper Awards and Best ML Project Award at IIT Madras.  
 
-### 🔍 Research Interests:  
-Focused on **quantum machine learning**, **adaptive learning**, and **fairness-aware AI**, exploring applications in **deep fake detection** and **drug discovery**.  
-
 ### 🛠️ Technical Expertise:  
 Proficient in **Python**, **TensorFlow**, **Qiskit**, **Flask**, and more. Passionate about building scalable AI solutions and experimenting with quantum-enhanced models.  
 
