@@ -37,10 +37,6 @@ Proficient in **Python**, **TensorFlow**, **Qiskit**, **Flask**, and more. Passi
 - NASA Space Settlement Contest Indian Qualifier.  
 - IAPT Top 10% National Qualifier.  
 
-### 🌍 Volunteering & Outreach:  
-- **IEEE**: Built a user-friendly website for SPS Design Challenge.  
-- **UNICEF**: Conducted polls on health, education, and unemployment.  
-- Peer Tutor for Linear Algebra & Discrete Mathematics.  
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-thilak-17248a247/)  
