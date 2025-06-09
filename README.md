@@ -30,7 +30,6 @@ Proficient in **Python**, **TensorFlow**, **Qiskit**, **Flask**, and more. Passi
 
 ### 📚 Publications:  
 - *A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model* (IEEE GCITC 2024).  
-- *Dynamic Course Optimization Using Online Machine Learning in Learning Management Systems* (IEEE 2024).  
 
 ### 🌟 Achievements:  
 - Top 20 global ranking in Amazon Deep Racer RL Challenge (2023-2024).  
