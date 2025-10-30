@@ -1,263 +1,123 @@
-<div align="center">
+# About Me
 
-# 👋 Hi, I'm Arjun Thilak R
-
-### AI/ML Engineer | Quantum Computing Enthusiast | Multi-Agent Systems Architect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-thilak)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunthilak05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunthilak2005@gmail.com)
-
-📍 Chennai, Tamil Nadu, India | 📞 +91-6383640754
-
-</div>
-
----
-
-## 🚀 About Me
-
-> Transforming ideas into intelligent systems through advanced AI/ML, quantum computing, and multi-agent architectures.
-
-I'm an AI/ML Engineer specializing in **multi-agent systems**, **quantum machine learning**, and **production-level AI solutions**. Currently working with **Music Director Ghibran** at Vaibodha Studio, I design and implement cutting-edge AI systems that automate complex workflows from concept to execution.
+I'm a rising **AI/ML Engineer** specializing in multi-agent systems, quantum computing, and production-level AI solutions. Currently working with **Music Director Ghibran** at Vaibodha Studio, designing cutting-edge AI systems for automated audiobook production and gamification platforms.
 
 🎓 **Dual Degree Student**:
-- **Sai University** - Major in Computing and Data Science (CGPA: 9.0/10)
+- **Sai University** - Computing and Data Science (CGPA: 9.0/10)
 - **IIT Madras** - BS Data Science and Applications (CGPA: 8.23/10)
 
----
-
-## 💼 Professional Experience
-
-### 🎵 **Music Director Ghibran | Vaibodha Studio** 
-**AI/ML Engineer** • *Aug 2025 – Present* • Chennai, India
-
-- 🤖 Engineered a **45+ multi-agent architecture** for fully automated audiobook production
-- 🎮 Developed adaptive **gamification platform** for AI/ML education with dynamic content generation
-- 🧠 Implemented decision, creator, validator, and optimization agents for scalable content creation
-
-### 🎥 **Eros Innovation**
-**Computer Vision Intern** • *June 2025 – Aug 2025* • Chennai, India
-
-- 🎙️ Built production-level **real-time voice avatar system (V2.0)** with Whisper + GPT-4 + ChatterboxTTS
-- 🎬 Created comprehensive **video analysis & search pipeline** with PySceneDetect + RAG-based semantic search
-- 🧘 Developed **Eternal Wellness app** features with yoga pose detection and ChatGPT/VedaStro API integration
-- ✈️ Built automated **flight booking assistant** for MakeMyTrip using Playwright + GPT-4o-mini
-
-### 🔬 **IIT M Pravartak, Gemicates**
-**Machine Learning Intern** • *July 2024 – Sep 2024* • Chennai, India
-
-- ⚡ Developed **Adaptive Random Forest System** achieving 95% accuracy and 80% cloud load reduction
-- 🔮 Implemented **Quantum CNN hybrid model** for vehicle plate recognition (97% accuracy on 100K images)
-- 🚗 Optimized from 1M image CNN (98% accuracy) to QCNN hybrid with significantly reduced compute
-
-### 🛩️ **Hindustan Aeronautics Limited (HAL)**
-**Python Backend Developer** • *June 2023 – July 2023* • Bangalore, India
-
-- ✈️ Led conversion of **675M hexadecimal numbers** into ICDs for **Jaguar DARIN-3 jet** project
-- 🔒 Designed secure data transfer systems between Mission Computer and SSD
-- 📊 Created GUI using Matplotlib for pilot data analysis
+I'm passionate about building intelligent systems that transform complex workflows into seamless, automated experiences.
 
 ---
 
-## 🛠️ Technical Skills
+## Skills
 
-### Programming & AI/ML
-```python
-languages = ["Python", "JavaScript", "MySQL", "HTML/CSS"]
-ml_frameworks = ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "River", "Pandas"]
-visualization = ["Matplotlib", "Seaborn", "Tableau"]
-```
-
-### 🧠 GenAI & LLM Tools
-- **Frameworks**: LangChain, LangFlow, LangGraph
-- **Vector DBs**: ChromaDB, FAISS
-- **Fine-tuning**: LoRA/QLoRA
-- **Architectures**: RAG Workflows, Multi-Agent Systems
-
-### 🎯 Multimodal AI
-- **LLMs**: OpenAI GPT-4o, Gemini, BLIP, Qwen
-- **Speech/Audio**: Whisper, ElevenLabs API, HALO Lip-Sync
-- **Image/Video**: Stable Diffusion, ControlNet, GANs, OpenCV
-
-### 🔮 Quantum Computing
-- **Frameworks**: Qiskit, Cirq
-- **Specialization**: Quantum Machine Learning, Hybrid Classical-Quantum Models
-
-### ☁️ Cloud & Development
-- **Cloud**: AWS (S3, EC2), Docker
-- **Web**: Flask, FastAPI, Playwright
-- **Tools**: Git, Jupyter, VS Code
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qiskit](https://img.shields.io/badge/QISKIT-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## Experience
 
-### 🎬 **32-Station Audiobook Production Pipeline**
-*45+ Multi-Agent Architecture for End-to-End Automation*
+### **Music Director Ghibran | Vaibodha Studio**
+**AI/ML Engineer** · *Aug 2025 – Present* · Chennai, India
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+- Designed and implemented a **45+ multi-agent architecture** for fully automated audiobook production from story generation to quality control
+- Developed an **adaptive gamification platform** for AI/ML education with dynamic content generation and AI tutor integration
 
-- 🎯 **32 specialized AI agents** processing story concept → production-ready audiobooks
-- 🤖 100% AI-driven using **Claude 3.5 Sonnet** via OpenRouter
-- 📊 Redis-based state management for seamless multi-agent coordination
-- ✅ Interactive quality assurance and voice direction generation
+### **Eros Innovation**
+**Computer Vision Intern** · *June 2025 – Aug 2025* · Chennai, India
 
----
+- Engineered **production-level voice avatar system (V2.0)** integrating Whisper, GPT-4, ChatterboxTTS, and GFP-GAN for realistic lip synchronization
+- Architected comprehensive **video analysis and search pipeline** using PySceneDetect and RAG-based semantic search
+- Built automated flight booking assistant for MakeMyTrip using Playwright and GPT-4o-mini
 
-### 🔍 **Social Media Analytics Platform**
-*AI-Powered Insights & Retail Optimization*
+### **IIT M Pravartak, Gemicates**
+**Machine Learning Intern** · *July 2024 – Sep 2024* · Chennai, India
 
-![Vector DB](https://img.shields.io/badge/VectorDB-00ADD8?style=flat-square)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+- Developed **Adaptive Random Forest System** achieving **95% accuracy** and reducing cloud processing load by **80%**
+- Implemented **quantum CNN hybrid model** for vehicle plate recognition with **97% accuracy** on 100K images
 
-- 📈 Real-time engagement analysis with **Vector DB + LangGraph**
-- 🛒 **Insights Assistant** for inventory, pricing, and sales optimization
-- 💬 Natural language queries with real-time dashboards
+### **Hindustan Aeronautics Limited (HAL)**
+**Python Backend Developer** · *June 2023 – July 2023* · Bangalore, India
 
----
-
-### 🚔 **CrimeCast - Crime Prediction System**
-*94.7% Accuracy in Crime Type Forecasting*
-
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-- 🎯 Advanced ML techniques for crime category prediction
-- 📊 Comprehensive data preprocessing and feature engineering
+- Led conversion of **675M hexadecimal numbers** into ICDs for **Jaguar DARIN-3 jet** project
+- Designed secure data transfer systems between Mission Computer and SSD
 
 ---
 
-### 🌍 **CarbonTrack - CO₂ Monitoring System**
-*Real-Time Personalized Emission Tracking*
+## Featured Projects
 
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square)
+### **32-Station Audiobook Production Pipeline**
+Multi-agent AI system for end-to-end audiobook production. 32 specialized AI agents process story concepts into production-ready audiobooks with quality assurance and voice direction.
 
-- 🧠 Adaptive neural network for personalized CO₂ monitoring
-- ⚡ Fuel efficiency and maintenance schedule optimization
+**Tech Stack**: Python, LangChain, LangGraph, Claude 3.5 Sonnet, Redis
 
----
+### **Quantum Machine Learning Suite**
+Hybrid classical-quantum models combining CNN + EstimatorQNN for image classification and quantum-enhanced face recognition using VQC with ZZFeatureMap.
 
-### 🔮 **Quantum Machine Learning Suite**
-*Hybrid Classical-Quantum Models*
+**Tech Stack**: Python, Qiskit, TensorFlow, Cirq
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+### **CrimeCast - Crime Prediction System**
+Advanced ML system achieving **94.7% accuracy** in predicting crime types using incident data with comprehensive feature engineering.
 
-- 🔬 **CNN + EstimatorQNN** for MNIST classification
-- 🎭 **Quantum-Enhanced Face Recognition** using VQC with ZZFeatureMap
-- 📸 EfficientSU2 ansatz for accurate classification
+**Tech Stack**: Python, Scikit-learn, Pandas
 
----
+### **Social Media Analytics Platform**
+AI-powered platform analyzing engagement data and generating actionable insights using Vector DB and LangGraph with GPT integration.
 
-### 🎤 **SpeakerSync - Speaker Identification**
-*98% Accuracy Voice Recognition System*
+**Tech Stack**: Python, Vector DB, LangGraph, GPT
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### **SpeakerSync - Speaker Identification**
+ML-based speaker identification system achieving **98% accuracy** using MFCC features with Flask web interface.
 
-- 🎙️ ML-based speaker identification with **MFCC features**
-- 🌐 User-friendly Flask web interface
+**Tech Stack**: Python, Flask, LibROSA, Scikit-learn
 
 ---
 
-## 📜 Publications
+## Publications
 
 **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model**  
-*GCITC IEEE 2024* • [View Paper](https://ieeexplore.ieee.org/document/10862831)
+*GCITC IEEE 2024* · [View Paper](https://ieeexplore.ieee.org/document/10862831)
 
 ---
 
-## 🎓 Education & Certifications
+## Achievements
 
-### 🎓 Education
-- **Sai University** - Computing and Data Science (CGPA: 9.0/10) • Expected Aug 2026
-- **IIT Madras** - BS Data Science and Applications (CGPA: 8.23/10) • Expected Aug 2026
-
-### 📚 Certifications
-- 🎓 **CS50P Programming with Python** - Harvard University
-- 🎓 **CS50S Programming with MIT Scratch** - Harvard University
-- 🎓 **CS50T Understanding Technology** - Harvard University
-- 🔮 **Foundations of Quantum Computing** - Qubit X Qubit (Grade: A+)
-- 🔬 **Quantum Machine Learning** - IBM Quantum Research
-- 🌟 **Quantum Computing Summer School** - Hasso Plattner Institute
-- ☁️ **Deploying Flask: Python** - Microsoft Learn
+🏆 **Amazon DeepRacer** - Top 20 Global Ranking (2023-2024)  
+🏆 **IIT Madras Best Capstone Project** - Machine Learning Award (2024)  
+🏆 **IIT Madras Course Topper** - Tools in Data Science & ML (2024)  
+🏆 **VIT Hackathon** - Top 20 out of 1,500 teams (2024)  
+🏆 **L&T TS Scholarship** - Academic excellence in Data Science (2024-ongoing)  
+🏆 **NASA Space Settlement Contest** - Indian Qualifier (2018)
 
 ---
 
-## 🏆 Achievements & Recognition
+## Certifications
 
-🌟 **Academic Excellence**
-- 🏅 **IIT Madras Best Capstone Project** - Machine Learning Award (2024)
-- 🏆 **IIT Madras Course Topper** - Tools in Data Science & Machine Learning (2024)
-- 🎯 **IIT Madras Python Excellence** - Foundation Level (2023)
-- 💰 **L&T TS Scholarship** - Academic excellence in Data Science (2024-ongoing)
-
-🚀 **Competitions & Recognition**
-- 🏁 **Amazon DeepRacer** - Top 20 Global Ranking (2023-2024)
-- 💻 **VIT Hackathon** - Top 20 out of 1,500 teams (2024)
-- 🧪 **IAPT Top 10%** - India Qualifier (2019)
-- 🚀 **NASA Space Settlement Contest** - Indian Qualifier (2018)
+- **CS50P Programming with Python** - Harvard University
+- **Foundations of Quantum Computing** - Qubit X Qubit (Grade: A+)
+- **Quantum Machine Learning** - IBM Quantum Research
+- **Quantum Computing Summer School** - Hasso Plattner Institute
+- **Deploying Flask: Python** - Microsoft Learn
 
 ---
 
-## 🎯 Leadership & Community
+## Contact Me
 
-### 🎓 **Academic Secretary** | Sai University
-*2024 – 2025* • Chennai, India
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-thilak)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunthilak2005@gmail.com)
 
-- Led academic coordination across **Computing, Engineering, and Business schools**
-- Managed academic policies and student concerns across multiple departments
-
-### 🚀 **Team Representative** | NASA AMES Space Settlement Contest
-*Jan 2017 – June 2018* • India
-
-- Represented India with **EXODUS project** for continuous ISS habitation
-- Collaborated with international teams on space settlement design
-
-### 🔧 **Student Volunteer** | IEEE SPS Student Design Challenge
-*Oct 2024 – Present* • Chennai, India
-
-- Built user-friendly website for design challenge navigation
-- Facilitated seamless participation for engineering students
-
-### 🌍 **Student Volunteer** | UNICEF U-Report Platform
-*July 2022 – Aug 2022* • India
-
-- Engaged youth on health, education, and unemployment through polls and data analysis
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunthilak05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunthilak05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunthilak05&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-thilak)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunthilak05)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunthilak2005@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building the future, one intelligent system at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=arjunthilak05&color=blueviolet&style=flat-square&label=Profile+Views)
-
-⭐️ From [arjunthilak05](https://github.com/arjunthilak05)
-
-</div>
+Feel free to reach out if you'd like to connect or collaborate on projects related to AI/ML, quantum computing, or multi-agent systems!
