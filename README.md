@@ -20,7 +20,7 @@
 
 > *Transforming ideas into intelligent systems through advanced AI/ML, quantum computing, and multi-agent architectures.*
 
-I'm an **AI/ML Engineer** specializing in **multi-agent systems**, **quantum machine learning**, and **production-level AI solutions**. Currently working with **Music Director Ghibran** at Vaibodha Studio, I design and implement cutting-edge AI systems that automate complex workflows from concept to execution.
+I'm an **AI/ML Engineer** specializing in **multi-agent systems**, **quantum machine learning**, and **production-level AI solutions**. Currently working with **Music Director Ghibran** at his startup, I design and implement cutting-edge AI systems that automate complex workflows from concept to execution.
 
 🎓 **Dual Degree Student**:
 - **Sai University** - Computing and Data Science (CGPA: 9.0/10) • Expected Aug 2026
@@ -132,21 +132,6 @@ I'm an **AI/ML Engineer** specializing in **multi-agent systems**, **quantum mac
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunthilak05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunthilak05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunthilak05&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
