@@ -3,46 +3,44 @@
   <img src="assets/banner-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
 </picture>
 
-I'm an AI researcher at **Eros Innovation** in Chennai. I study how language-model agents behave as opposed to how they say they behave: whether they know when they're wrong, whether they act on what they know, and what they do with incomplete tools. I also work on small on-device models and camera-based health sensing.
+I'm an AI researcher at **Eros Innovation** in Chennai, where I train generative models for images, video and speech. Most of my time goes into flow-matching diffusion, neural audio codecs, and the GPU pipelines that feed them.
 
-Find me on [LinkedIn](https://linkedin.com/in/arjun-thilak) or [Kaggle](https://www.kaggle.com/rarjunthilak), or [email me](mailto:arjunthilak2005@gmail.com).
+[LinkedIn](https://linkedin.com/in/arjun-thilak) · [Kaggle](https://www.kaggle.com/rarjunthilak) · [Email](mailto:arjunthilak2005@gmail.com)
 
-### Papers
+### Now
 
-| | |
-|---|---|
-| **BHI 2026** | **One-Cuff Subject Calibration for Facial rPPG Blood Pressure on MCD-rPPG: Diastolic Gains and a Systolic Ceiling.** IEEE EMBS International Conference on Biomedical and Health Informatics. |
-| **ICST 2026** | **GAUGE: Measuring Monitoring–Control Coupling as a Metacognitive Failure Mode in Large Language Models.** Springer proceedings. [code](https://github.com/arjunthilak05/gauge-metacognition) |
-| **2026** | **Missing Callers Under a Response Budget: Finishing Versus Finding in a Local Gemma 4 Agent.** With Ramkumar M V. [paper](https://github.com/arjunthilak05/missing-callers-gemma4/blob/main/paper/Missing_Callers_paper.pdf) · [code](https://github.com/arjunthilak05/missing-callers-gemma4) · [dataset](https://www.kaggle.com/datasets/rarjunthilak/absent-edges-expa-v1) |
-| **IEEE 2025** | **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model.** [IEEE Xplore](https://ieeexplore.ieee.org/document/10862831) |
+- **Text-to-speech, from scratch.** An expressive English TTS system: a GAN-trained neural audio codec (WavLM-distilled semantic FSQ, 15-layer acoustic RVQ, BigVGAN decoder) feeds a Qwen3-1.7B codec language model. The model is aligned with DPO/GRPO against speaker-similarity, intelligibility and naturalness rewards.
+- **Text-to-image.** Core engineer on India's first culturally specialised T2I model, about 2B parameters, trained with rectified flow matching on 9.6M+ Indian cultural images. It uses a 5-stage progressive schedule from 512px to 4K.
+- **Text-to-video data.** Turned 4,000+ full-length films into a 360M-frame training set for a T2V foundation model.
+- **Data at scale.** A 9-stage image-curation pipeline: 7 models running as 6 microservices across 8×H100, with vLLM, YOLO, InsightFace, dual CLIP scoring and Ray scheduling. It has processed 30M+ images.
 
-### Selected work
+### Research
 
-**[GAUGE](https://github.com/arjunthilak05/gauge-metacognition).** Grand Prize, Google DeepMind × Kaggle *Measuring Progress Toward AGI* (one of four across all tracks).
-I gave 8 models 270 items, each in three turns: predict the difficulty, answer with a confidence, then decide whether to submit or abstain. Gemini 2.5 Pro got 94% right but never abstained, which gives it a coupling score of zero. The most accurate model was the least self-aware.
+- **GAUGE: Measuring Monitoring–Control Coupling as a Metacognitive Failure Mode in LLMs.** ICST 2026 (Springer). Grand Prize, Google DeepMind × Kaggle *Measuring Progress Toward AGI*. [code](https://github.com/arjunthilak05/gauge-metacognition)
+- **One-Cuff Subject Calibration for Facial rPPG Blood Pressure on MCD-rPPG.** IEEE EMBS BHI 2026.
+- **Two-Stage Personalization of Audio Language Models for Aphasic Speech.** Under review. Fine-tunes Whisper-Large-v3 and Gemma 4 on AphasiaBank, cutting per-speaker WER from 0.625 to 0.521. [code](https://github.com/arjunthilak05/aphasiabridge)
+- **Missing Callers Under a Response Budget: Finishing Versus Finding in a Local Gemma 4 Agent.** With Ramkumar M V. [paper](https://github.com/arjunthilak05/missing-callers-gemma4/blob/main/paper/Missing_Callers_paper.pdf) · [code](https://github.com/arjunthilak05/missing-callers-gemma4)
+- **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model.** IEEE GCITC 2024. [paper](https://ieeexplore.ieee.org/document/10862831)
 
-**[Missing Callers](https://github.com/arjunthilak05/missing-callers-gemma4).** What does a coding agent do when its code-graph tool quietly drops a caller from the list? Over 11,250 controlled episodes on 30 Python libraries, an incomplete list still helped by +15.6 points. Most of that gain came from the agent *finishing* its answer, not from *finding* the missing caller.
+### Open source
 
-**[AphasiaBridge](https://github.com/arjunthilak05/aphasiabridge).** Audio LoRA on Gemma 4 E4B for post-stroke aphasic speech, running on the phone. In phase 1, held-out WER dropped from 75.3% to 55.3%.
-
-**[UWE-SkinLesion](https://github.com/arjunthilak05/UWE-SkinLesion).** An 11-model ViT + CNN ensemble, weighted by MC Dropout uncertainty. 85.6% balanced accuracy on HAM10000 under lesion-grouped CV.
-
-**[antigravity-claude-mcp](https://github.com/arjunthilak05/antigravity-claude-mcp)** ([npm](https://www.npmjs.com/package/antigravity-claude-mcp)). Lets Claude Code ask Gemini for a second opinion on a plan or diff before you accept it. One command to install, zero dependencies.
+- **[antigravity-claude-mcp](https://github.com/arjunthilak05/antigravity-claude-mcp)**: lets Claude Code ask Gemini for a second opinion on a plan or diff. Available on [npm](https://www.npmjs.com/package/antigravity-claude-mcp).
+- **[UWE-SkinLesion](https://github.com/arjunthilak05/UWE-SkinLesion)**: an 11-model ViT + CNN ensemble weighted by uncertainty. 85.6% balanced accuracy on HAM10000.
+- **[TinyLLM-Quantization](https://github.com/arjunthilak05/TinyLLM-Quantization)**: PTQ vs. QAT at INT8/INT4 for small LLMs on Apple Silicon.
 
 <details>
-<summary><b>More projects</b></summary>
+<summary>More</summary>
 <br>
 
-- [RapidEye-DisasterAI](https://github.com/arjunthilak05/RapidEye-DisasterAI): satellite damage segmentation (DeepLabV3+, xView2), plus an urgency score that ranks where responders should go first
-- [Entropy-QGAN](https://github.com/arjunthilak05/Entropy-QGAN): entanglement entropy as a generator regularizer against mode collapse in quantum GANs
+- [RapidEye-DisasterAI](https://github.com/arjunthilak05/RapidEye-DisasterAI): satellite damage segmentation with response-urgency ranking
 - [Multimodal-RAG](https://github.com/arjunthilak05/Multimodal-RAG): CLIP + FAISS + BM25 hybrid retrieval over text, images and tables
-- [TinyLLM-Quantization](https://github.com/arjunthilak05/TinyLLM-Quantization): PTQ vs. QAT at INT8/INT4 on Qwen2.5-0.5B, on Apple Silicon
-- [CarParts-YOLOv11](https://github.com/arjunthilak05/CarParts-YOLOv11): 19-class car-part detection, 68.1 mAP@50
+- [Entropy-QGAN](https://github.com/arjunthilak05/Entropy-QGAN): entanglement-entropy regularisation for quantum GANs
+- [CarParts-YOLOv11](https://github.com/arjunthilak05/CarParts-YOLOv11): 19-class car-part detection
 
 </details>
 
 ### Background
 
-I studied Computing & Data Science at **Sai University** (CGPA 9.0) and did the BS in Data Science at **IIT Madras** (CGPA 8.23) in parallel. Earlier wins: top 20 globally in Amazon DeepRacer, Best Capstone Project in ML at IIT Madras, and the L&T Technology Services Scholarship.
+BS in Computing & Data Science from **Sai University** (CGPA 9.0) and a Diploma in Data Science from **IIT Madras**, both 2022–26. In 2026 I was selected for the CS research cohort at Chennai Mathematical Institute. Before Eros I worked at HAL and IIT Madras Pravartak.
 
-<sub>I mostly write Python (PyTorch, Transformers, PEFT) and TypeScript.</sub>
+<sub>PyTorch · Diffusers · Transformers · vLLM · Ray · Triton · CUDA</sub>
