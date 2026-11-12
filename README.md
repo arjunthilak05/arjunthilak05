@@ -1,4 +1,7 @@
-### Hi, I'm Arjun
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
+</picture>
 
 I'm an AI researcher at **Eros Innovation** in Chennai. I study how language-model agents behave as opposed to how they say they behave: whether they know when they're wrong, whether they act on what they know, and what they do with incomplete tools. I also work on small on-device models and camera-based health sensing.
 
@@ -15,14 +18,10 @@ Find me on [LinkedIn](https://linkedin.com/in/arjun-thilak) or [Kaggle](https://
 
 ### Selected work
 
-<a href="https://github.com/arjunthilak05/gauge-metacognition"><img src="https://raw.githubusercontent.com/arjunthilak05/gauge-metacognition/main/figures/cover_final.png" width="420" align="right" alt="GAUGE: Gemini 2.5 Pro scores L = 0.0 and never abstains; Qwen3-235B scores L = 0.813"></a>
-
 **[GAUGE](https://github.com/arjunthilak05/gauge-metacognition).** Grand Prize, Google DeepMind × Kaggle *Measuring Progress Toward AGI* (one of four across all tracks).
 I gave 8 models 270 items, each in three turns: predict the difficulty, answer with a confidence, then decide whether to submit or abstain. Gemini 2.5 Pro got 94% right but never abstained, which gives it a coupling score of zero. The most accurate model was the least self-aware.
 
 **[Missing Callers](https://github.com/arjunthilak05/missing-callers-gemma4).** What does a coding agent do when its code-graph tool quietly drops a caller from the list? Over 11,250 controlled episodes on 30 Python libraries, an incomplete list still helped by +15.6 points. Most of that gain came from the agent *finishing* its answer, not from *finding* the missing caller.
-
-<br clear="right">
 
 **[AphasiaBridge](https://github.com/arjunthilak05/aphasiabridge).** Audio LoRA on Gemma 4 E4B for post-stroke aphasic speech, running on the phone. In phase 1, held-out WER dropped from 75.3% to 55.3%.
 
