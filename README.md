@@ -1,18 +1,23 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
 </picture>
 
-I'm an AI researcher at **Eros Innovation** in Chennai, where I train generative models for images, video and speech. Most of my time goes into flow-matching diffusion, neural audio codecs, and the GPU pipelines that feed them.
+I'm an AI researcher at **Eros Innovation** in Chennai, where I train generative models for images, video and speech. Most of my time goes into flow-matching models, neural audio, and the data pipelines that feed them.
 
 [LinkedIn](https://linkedin.com/in/arjun-thilak) · [Kaggle](https://www.kaggle.com/rarjunthilak) · [Email](mailto:arjunthilak2005@gmail.com)
 
 ### Now
 
-- **Text-to-speech, from scratch.** An expressive English TTS system: a GAN-trained neural audio codec (WavLM-distilled semantic FSQ, 15-layer acoustic RVQ, BigVGAN decoder) feeds a Qwen3-1.7B codec language model. The model is aligned with DPO/GRPO against speaker-similarity, intelligibility and naturalness rewards.
-- **Text-to-image.** Core engineer on India's first culturally specialised T2I model, about 2B parameters, trained with rectified flow matching on 9.6M+ Indian cultural images. It uses a 5-stage progressive schedule from 512px to 4K.
-- **Text-to-video data.** Turned 4,000+ full-length films into a 360M-frame training set for a T2V foundation model.
-- **Data at scale.** A 9-stage image-curation pipeline: 7 models running as 6 microservices across 8×H100, with vLLM, YOLO, InsightFace, dual CLIP scoring and Ray scheduling. It has processed 30M+ images.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="2B parameter image model, 9.6M curated cultural images, 360M video frames, 3 modalities" width="100%">
+</picture>
+
+- **Speech.** Building an expressive English text-to-speech system from scratch: the audio codec, the language model on top of it, and the tuning that makes it sound natural.
+- **Image.** Core engineer on India's first culturally specialised text-to-image model, trained progressively up to 4K on Indian dance, cuisine, architecture and textiles.
+- **Video.** Built the pipeline that turns thousands of full-length films into training data for a text-to-video foundation model.
+- **Data and infrastructure.** I run the GPU cluster and the distributed pipeline that captions, filters and cleans tens of millions of images.
 
 ### Research
 
@@ -43,4 +48,4 @@ I'm an AI researcher at **Eros Innovation** in Chennai, where I train generative
 
 BS in Computing & Data Science from **Sai University** (CGPA 9.0) and a Diploma in Data Science from **IIT Madras**, both 2022–26. In 2026 I was selected for the CS research cohort at Chennai Mathematical Institute. Before Eros I worked at HAL and IIT Madras Pravartak.
 
-<sub>PyTorch · Diffusers · Transformers · vLLM · Ray · Triton · CUDA</sub>
+<sub>PyTorch · CUDA · distributed training and inference</sub>
