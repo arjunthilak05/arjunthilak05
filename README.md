@@ -1,157 +1,59 @@
-<div align="center">
+## Arjun Thilak R
 
-# 🚀 Arjun Thilak R
+AI researcher at **Eros Innovation**, Chennai. I build benchmarks and evaluation setups that measure what language-model agents actually do, as opposed to what they report. Most of my recent work is on metacognition, tool use under budget limits, and small on-device models.
 
-### AI/ML Engineer | Quantum Computing Enthusiast | Multi-Agent Systems Architect
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Multi-Agent+Architectures;Quantum+Machine+Learning;Production-Level+AI+Solutions)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-thilak)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunthilak05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunthilak2005@gmail.com)
-
-📍 Chennai, Tamil Nadu, India | 📞 +91-6383640754
-
-</div>
+[LinkedIn](https://linkedin.com/in/arjun-thilak) · [Kaggle](https://www.kaggle.com/rarjunthilak) · [Email](mailto:arjunthilak2005@gmail.com)
 
 ---
 
-## 🌟 About Me
+### Research
 
-> *Transforming ideas into intelligent systems through advanced AI/ML, quantum computing, and multi-agent architectures.*
+**[GAUGE: Grading Awareness of Uncertainty and Grounded Epistemics](https://github.com/arjunthilak05/gauge-metacognition)**
+Grand Prize, *Measuring Progress Toward AGI*, Google DeepMind × Kaggle (2026). One of four grand prizes across all tracks.
+A 3-turn metacognition benchmark: 270 items, 8 models, 4 families. Gemini 2.5 Pro scored 94% accuracy and never abstained once (L-Score 0.0). Claude Haiku 4.5 scored 78% and had the highest metacognitive score (0.870). Being right and knowing when you're likely to be wrong turn out to be different skills.
 
-I'm an **AI/ML Engineer** specializing in **multi-agent systems**, **quantum machine learning**, and **production-level AI solutions**. Currently working with **Music Director Ghibran** at his startup, I design and implement cutting-edge AI systems that automate complex workflows from concept to execution.
+**[Missing Callers Under a Response Budget](https://github.com/arjunthilak05/missing-callers-gemma4)**, with Ramkumar M V (2026)
+When a code-graph tool hands a local Gemma 4 31B agent a caller list with one caller left out, does the agent still find the missing one? We tested this over 30 pinned Python libraries and 11,250 episodes. An incomplete list beats no list by 15.6 points (95% CI 11.5–19.8), but most of that gain comes from the agent *finishing* its answer, not from *finding* the missing caller. [Paper](https://github.com/arjunthilak05/missing-callers-gemma4/blob/main/paper/Missing_Callers_paper.pdf) · [Dataset](https://www.kaggle.com/datasets/rarjunthilak/absent-edges-expa-v1)
 
-🎓 **Dual Degree Student**:
-- **Sai University** - Computing and Data Science (CGPA: 9.0/10) • Expected Aug 2026
-- **IIT Madras** - BS Data Science and Applications (CGPA: 8.23/10) • Expected Aug 2026
+**[AphasiaBridge](https://github.com/arjunthilak05/aphasiabridge)**
+An audio LoRA on Gemma 4 E4B for aphasic speech, meant to run on-device so post-stroke patients can turn fragmented speech into clear messages. Held-out WER on APROCSA dropped from 75.3% to 55.3% in phase 1.
 
----
+**[UWE-SkinLesion](https://github.com/arjunthilak05/UWE-SkinLesion)**
+An uncertainty-weighted ensemble of 11 models (ViTs + CNNs, weighted by MC Dropout) for 7-class dermoscopy. 85.6% balanced accuracy on HAM10000 with lesion-grouped 5-fold CV.
 
-## 🛠️ Tech Stack
+### Publications
 
-<div align="center">
+- **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model.** IEEE GCITC 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10862831)
+- **Risk Prediction of Heroin Drug Consumption Using Machine Learning Algorithms.** Ramkumar M V, Arjun Thilak R. IEEE GCCIT 2024.
 
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Open source
 
-### AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**[antigravity-claude-mcp](https://github.com/arjunthilak05/antigravity-claude-mcp)** · [npm](https://www.npmjs.com/package/antigravity-claude-mcp)
+An MCP server that lets Claude Code ask a different model family (Gemini 3 Pro, via Google Antigravity) for a second opinion on a plan or diff before you accept it. One command to install, zero dependencies.
 
-### GenAI & LLM Tools
-![LangChain](https://img.shields.io/badge/LANGCHAIN-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
+### Other projects
 
-### Multimodal AI
-![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/WHISPER-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/STABLE_DIFFUSION-8B5CF6?style=for-the-badge&logo=stability-ai&logoColor=white)
+| Project | What it is |
+|---|---|
+| [RapidEye-DisasterAI](https://github.com/arjunthilak05/RapidEye-DisasterAI) | DeepLabV3+ on xView2 satellite pairs; 4-class damage segmentation, then an urgency score that ranks where responders should go first |
+| [Entropy-QGAN](https://github.com/arjunthilak05/Entropy-QGAN) | Quantum GAN with entanglement entropy as a generator regularizer against mode collapse (PennyLane + PyTorch) |
+| [Multimodal-RAG](https://github.com/arjunthilak05/Multimodal-RAG) | CLIP + FAISS dense retrieval with BM25 hybrid re-ranking over text, images and tables; FastAPI + Next.js |
+| [TinyLLM-Quantization](https://github.com/arjunthilak05/TinyLLM-Quantization) | PTQ vs. QAT (INT8/INT4) on Qwen2.5-0.5B on Apple Silicon, with size/latency comparisons |
+| [CarParts-YOLOv11](https://github.com/arjunthilak05/CarParts-YOLOv11) | YOLOv11 on 19 car-part classes, 68.1 mAP@50 |
 
-### Quantum Computing
-![Qiskit](https://img.shields.io/badge/QISKIT-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Cirq](https://img.shields.io/badge/CIRQ-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### Education
 
-### Cloud & Development Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- **Sai University**, Computing and Data Science. CGPA 9.0 / 10
+- **IIT Madras**, BS in Data Science and Applications. CGPA 8.23 / 10
 
-</div>
+### Recognition
+
+- Grand Prize, Google DeepMind × Kaggle *Measuring Progress Toward AGI* hackathon (2026)
+- Amazon DeepRacer, top 20 globally (2023–24)
+- IIT Madras: Best Capstone Project in ML; course topper in Tools in Data Science and ML (2024)
+- L&T Technology Services Scholarship (2024–)
+- VIT Hackathon, top 20 of 1,500 teams (2024)
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Grade |
-|--------------|--------|-------|
-| CS50P Programming with Python | Harvard University | ✅ |
-| CS50S Programming with MIT Scratch | Harvard University | ✅ |
-| CS50T Understanding Technology | Harvard University | ✅ |
-| Foundations of Quantum Computing | Qubit X Qubit | A+ |
-| Quantum Machine Learning | IBM Quantum Research | ✅ |
-| Quantum Computing Summer School | Hasso Plattner Institute | ✅ |
-| Deploying Flask: Python | Microsoft Learn | ✅ |
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-🚀 **Amazon DeepRacer Reinforcement Learning** - Top 20 Global Ranking (2023-2024)  
-🏆 **IIT Madras Best Capstone Project** - Machine Learning Award (2024)  
-🏆 **IIT Madras Course Topper** - Tools in Data Science & ML (2024)  
-🎯 **IIT Madras Python Excellence Achiever** - Foundation Level (2023)  
-💰 **L&T TS Scholarship** - Academic Excellence in Data Science (2024-ongoing)  
-💻 **VIT Hackathon** - Top 20 out of 1,500 teams (2024)  
-🧪 **IAPT Top 10%** - India Qualifier (2019)  
-🚀 **NASA Space Settlement Contest** - Indian Qualifier (2018)
-
-</div>
-
----
-
-## 📜 Publications
-
-<div align="center">
-
-**A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model**  
-*GCITC IEEE 2024* • [View Paper](https://ieeexplore.ieee.org/document/10862831)
-
-</div>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-📎 **[View My Complete Resume](#)** *(Link coming soon)*
-
-</div>
-
----
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-thilak)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunthilak05)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunthilak2005@gmail.com)
-
-**Feel free to reach out for collaborations on AI/ML, Quantum Computing, or Multi-Agent Systems!**
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building the future, one intelligent system at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=arjunthilak05&color=00F7F7&style=flat-square&label=Profile+Views)
-
-⭐️ From [arjunthilak05](https://github.com/arjunthilak05)
-
-</div>
+<sub>Python · PyTorch · Transformers / PEFT · PennyLane / Qiskit · FastAPI · TypeScript / Next.js · Docker</sub>
