@@ -1,22 +1,22 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/top-dark.svg">
+  <img src="assets/top-light.svg" alt="Arjun Thilak R, AI researcher" width="100%">
 </picture>
 
-I'm an AI researcher at **Eros Innovation** in Chennai, where I train generative models for images, video and speech. Most of my time goes into flow-matching models, neural audio, and the data pipelines that feed them.
+I'm an AI researcher at **Eros Innovation** in Chennai. I train generative models for images, video and speech, all three on Indian cinema. Most of my time goes into flow-matching models, neural audio, and the data pipelines that feed them.
 
 [LinkedIn](https://linkedin.com/in/arjun-thilak) · [Kaggle](https://www.kaggle.com/rarjunthilak) · [Email](mailto:arjunthilak2005@gmail.com)
 
 ### Now
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="2B parameter image model, 9.6M curated cultural images, 360M video frames, 3 modalities" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
+  <img src="assets/cards-light.svg" alt="Speech: expressive text-to-speech for English and Indian speech. Image: 2B parameters, 9.6M curated images. Video: 360M frames from 4,000+ Indian films." width="100%">
 </picture>
 
-- **Speech.** Building an expressive English text-to-speech system from scratch: the audio codec, the language model on top of it, and the tuning that makes it sound natural.
-- **Image.** Core engineer on India's first culturally specialised text-to-image model, trained progressively up to 4K on Indian dance, cuisine, architecture and textiles.
-- **Video.** Built the pipeline that turns thousands of full-length films into training data for a text-to-video foundation model.
+- **Speech.** Building an expressive text-to-speech system from scratch, for English and Indian speech, trained on Indian cinema. I work on the whole stack: an audio codec that turns a voice into tokens, a language model that speaks in those tokens, and a tuning stage that scores every output on speaker similarity, clarity and naturalness. The aim is speech that carries emotion and rhythm, not flat narration.
+- **Image.** Core engineer on India's first culturally specialised text-to-image model, trained progressively up to 4K on Indian cinema and culture: dance, cuisine, architecture and textiles.
+- **Video.** Built the pipeline that turns thousands of full-length Indian films into training data for a text-to-video foundation model.
 - **Data and infrastructure.** I run the GPU cluster and the distributed pipeline that captions, filters and cleans tens of millions of images.
 
 ### Research
