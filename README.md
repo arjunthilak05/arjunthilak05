@@ -1,6 +1,6 @@
 ## Arjun Thilak R
 
-AI researcher at **Eros Innovation**, Chennai. I build benchmarks and evaluation setups that measure what language-model agents actually do, as opposed to what they report. Most of my recent work is on metacognition, tool use under budget limits, and small on-device models.
+AI researcher at **Eros Innovation**, Chennai. I build benchmarks and evaluation setups that measure what language-model agents actually do, as opposed to what they report. Most of my recent work is on metacognition, tool use under budget limits, small on-device models, and camera-based health sensing.
 
 [LinkedIn](https://linkedin.com/in/arjun-thilak) · [Kaggle](https://www.kaggle.com/rarjunthilak) · [Email](mailto:arjunthilak2005@gmail.com)
 
@@ -9,7 +9,7 @@ AI researcher at **Eros Innovation**, Chennai. I build benchmarks and evaluation
 ### Research
 
 **[GAUGE: Grading Awareness of Uncertainty and Grounded Epistemics](https://github.com/arjunthilak05/gauge-metacognition)**
-Grand Prize, *Measuring Progress Toward AGI*, Google DeepMind × Kaggle (2026). One of four grand prizes across all tracks.
+Grand Prize, *Measuring Progress Toward AGI*, Google DeepMind × Kaggle (2026). One of four grand prizes across all tracks. Paper at ICST 2026 (Springer).
 A 3-turn metacognition benchmark: 270 items, 8 models, 4 families. Gemini 2.5 Pro scored 94% accuracy and never abstained once (L-Score 0.0). Claude Haiku 4.5 scored 78% and had the highest metacognitive score (0.870). Being right and knowing when you're likely to be wrong turn out to be different skills.
 
 **[Missing Callers Under a Response Budget](https://github.com/arjunthilak05/missing-callers-gemma4)**, with Ramkumar M V (2026)
@@ -23,8 +23,9 @@ An uncertainty-weighted ensemble of 11 models (ViTs + CNNs, weighted by MC Dropo
 
 ### Publications
 
-- **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model.** IEEE GCITC 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10862831)
-- **Risk Prediction of Heroin Drug Consumption Using Machine Learning Algorithms.** Ramkumar M V, Arjun Thilak R. IEEE GCCIT 2024.
+- **One-Cuff Subject Calibration for Facial rPPG Blood Pressure on MCD-rPPG: Diastolic Gains and a Systolic Ceiling.** IEEE EMBS International Conference on Biomedical and Health Informatics (BHI 2026).
+- **GAUGE: Measuring Monitoring–Control Coupling as a Metacognitive Failure Mode in Large Language Models.** ICST 2026, Springer proceedings. [Code](https://github.com/arjunthilak05/gauge-metacognition)
+- **A Hybrid Approach to License Plate Recognition: YOLO-v9 and Quantum-Enhanced CNN Model.** IEEE, 2025. [IEEE Xplore](https://ieeexplore.ieee.org/document/10862831)
 
 ### Open source
 
